@@ -1,10 +1,10 @@
 **Git Operations<br/>**
 *1.create team account<br/>*
-We created a team account in which the name is demo.</br>
+We created a team account in which the name is demo.<br/>
 *2. Create empty repository in any git remote repository service and add
 collaborators.*<br/>
-In this demo group,we added a three collaborataters-Anjali venugopal,Revathychandran and Rahul Ramakrishnan</br>
-*3. Leader must create the first commit*</br>
+In this demo group,team leader added a three collaborataters-Anjali venugopal,Revathychandran,Preethips and Rahul Ramakrishnan</br>
+*3. Leader must create the first commit*<br/>
 In this team,the team leader created the first commit</br>
 commit is perform by the command  - git commit -m "commit msg"<br/>
 *4.All members must clone the remote repository*
