@@ -1,5 +1,5 @@
-####Git Operations<br/>
-*1.create team account<br/>**
+**Git Operations<br/>**
+*1.create team account<br/>*
 We created a team account in which the name is demo.</br>
 *2. Create empty repository in any git remote repository service and add
 collaborators.*
@@ -11,17 +11,17 @@ commit is perform by the command  - git commit -m "commit msg"
 After the first commit by leader,all the team members clone the remote repository.Pushing a file to the remote repository  without clone will raise an error.<br/>
 clone is perform by the command   -git clone https://github.com/Anjali-941/demo.git gitfolder
 *5.Each member must create a feature brach each and add features to
-them(any mod)*
+them(any mod)*<br/>
 After cloning the remote repository,all the members in my group  created a branch and added files to that branch.<br/>
 New branch is created by the command  -git checkout -b pree.<br/>We can view can all the branch by the command  - git branch
-*6.Commit changes to branches*
+*6.Commit changes to branches*<br/>
 Here we modify an existing file in our branch and commit that file to the new branch</br>
-*7.Push the branches*
+*7.Push the branches*</br>
 Here i push the files to the new branch using the command  - git push --set-upstream https://github.com/Anjali-941/demo.git pree
-*8. View Graph*
+*8. View Graph*<br/>
 To visualize our git repository,we can use the graph.The command used for this is  -  git log --all --decorate --oneline --graph
-*9. Leader must make changes to the master*
-Team leader can change the committed file in the master branch*
+*9. Leader must make changes to the master*<br/>
+Team leader can change the committed file in the master branch*<br/>
 *10.All member must rebase their branches to the position of latest commit in
-master*
+master*</br>
 Rebase is another method for ingrating changes from one branch to another.
