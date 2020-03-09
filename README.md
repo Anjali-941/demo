@@ -13,11 +13,11 @@ clone is perform by the command   -git clone https://github.com/Anjali-941/demo.
 *5.Each member must create a feature brach each and add features to
 them(any mod)*<br/>
 After cloning the remote repository,all the members in my group  created a branch and added files to that branch.<br/>
-New branch is created by the command  -git checkout -b pree.<br/>We can view can all the branch by the command  - git branch
+New branch is created by the command  -git checkout -b pree.<br/>We can view can all the branch by the command  - git branch<br/>
 *6.Commit changes to branches*<br/>
 Here we modify an existing file in our branch and commit that file to the new branch</br>
 *7.Push the branches*</br>
-Here i push the files to the new branch using the command  - git push --set-upstream https://github.com/Anjali-941/demo.git pree
+Here i push the files to the new branch using the command  - git push --set-upstream https://github.com/Anjali-941/demo.git pree<br/>
 *8. View Graph*<br/>
 To visualize our git repository,we can use the graph.The command used for this is  -  git log --all --decorate --oneline --graph<br/>
 *9. Leader must make changes to the master*<br/>
