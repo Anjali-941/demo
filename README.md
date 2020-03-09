@@ -1,6 +1,6 @@
 # GIT COMMANDS
-##Initialization 
-##commit
+tialization 
+commit
 ##pull
 ##push
 ##branch
