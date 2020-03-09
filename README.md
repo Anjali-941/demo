@@ -1,10 +1,10 @@
 # GIT COMMANDS
-tialization 
-commit
-##pull
-##push
-##branch
-##merge
-######graph
-##clone
+initialization <br/>
+*commit*
+**pull**
+push
+branch
+merge
+graph
+clone
 
